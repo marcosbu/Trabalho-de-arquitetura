@@ -24,7 +24,7 @@ Este repositório é destinado ao grupo x - [**gXchange**](Link do repositório 
 
 # Documentação de Software
 
-**Negrito**  
+**Negrito**
 *Italico* 
 
 1. Primeiro
