@@ -5,8 +5,8 @@ Repositório que deve ser utilizado como template inicial pelos grupos da Discip
 (Apague esta seção)
 
 # NomedoProjeto
-**Número do Grupo:** Educa P2
-**Disciplina:** Engenharia de software III
+**Número do Grupo:** Educa P2  
+**Disciplina:** Engenharia de software III  
 **Professor:** Cléber Araújo
 
 
