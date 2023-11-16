@@ -13,8 +13,11 @@ Repositório que deve ser utilizado como template inicial pelos grupos da Discip
 ## Alunos
 | Matrícula   | Aluno             |
 |-------------|-------------------|
-| xx/xxxxxx   | xxxx xxxx xxxxx  |
-| xx/xxxxxx   | xxxx xxxx xxxxx  |
+| 2022123TADS0101  | Antonio Marcos Bezerra Uchôa  |
+| XXXX XXXX   | Diego Pereira Gonçalves  |
+| XXXX XXXX   | Nicolas Teixeira  |
+| XXXX XXXX   | Ediberto Nascimento  |
+
 
 ## Sobre
 Descrição geral do seu projeto.
