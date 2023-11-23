@@ -6,14 +6,14 @@ praticam usando as para criar pequenos sites e tem boa base para o começo.
 
 # Estratégia de Design e Implementação
 - **Princípios SOLID:**     
--**Single Responsibility Principle:** Cada classe ou módulo do sistema terá uma única responsabilidade, como manipular informações do curso, lidar com a autenticação do usuário, exibir informações da interface etc.
--**Open/Closed Principle:**O código irá permitir a extensão através de herança, interfaces ou composição, sem precisar alterar o código existente.
--**Liskov Substitution Principle:**As classes e objetos do codigo poderão ser substituídos por suas subclasses sem causar problemas ou alterar o comportamento esperado.
--**Interface Segregation Principle:**Dividiremos as interfaces em interfaces menores e mais específicas, adequadas para diferentes partes do sistema de cursos online.
--**Dependency Inversion Principle:**Usaremos a injeção de dependência, interfaces e padrões de projeto para garantir que os componentes dependam de abstrações e não de implementações concretas.
+- **Single Responsibility Principle:** Cada classe ou módulo do sistema terá uma única responsabilidade, como manipular informações do curso, lidar com a autenticação do usuário, exibir informações da interface etc.
+- **Open/Closed Principle:**O código irá permitir a extensão através de herança, interfaces ou composição, sem precisar alterar o código existente.
+- **Liskov Substitution Principle:**As classes e objetos do codigo poderão ser substituídos por suas subclasses sem causar problemas ou alterar o comportamento esperado.
+- **Interface Segregation Principle:**Dividiremos as interfaces em interfaces menores e mais específicas, adequadas para diferentes partes do sistema de cursos online.
+- **Dependency Inversion Principle:**Usaremos a injeção de dependência, interfaces e padrões de projeto para garantir que os componentes dependam de abstrações e não de implementações concretas.
 
 # Ferramentas de Desenvolvimento
-- **Lista de Ferramentas:** Como estamos no começo utilizaremos apenas o Figma para ter um prototipo de alta fidelidade base,para depois a implementação concreta,ainda nao decidimos todas as ferramentas que serão utilizadas,quando for decidido atualizaremos o documento.
+- **Lista de Ferramentas:** No começo utilizaremos apenas o Figma para ter um prototipo de alta fidelidade base,para depois a implementação concreta,ainda nao decidimos todas as ferramentas que serão utilizadas, quando for decidido atualizaremos o documento.
 
 # Cronograma
 - **Fases do Projeto:**
