@@ -7,7 +7,9 @@
 *Anexe imagens da reũnião da equipe tanto presencial, quanto virtual*
 
 ## Organização da Equipe
-- **Estrutura de Equipe:** Explique como a equipe é organizada
+- **Arquiteto:** Marcos;
+- **Analista de Qualidade e Engenheiro de Requisitos:** Edberto;
+- **Desenvolvedores:** Diego e Nicolas.
 
 ## Reuniões
 
