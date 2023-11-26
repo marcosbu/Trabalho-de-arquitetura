@@ -13,7 +13,7 @@ Este repositório é destinado ao grupo x - [**gXchange**](Link do repositório 
 |Foto | Matrícula | Nome | GitHub | E-mail|
 |:--:|:--:|:--:|:--:|:--:|
 |<img src="./img/IMG-20231023-WA0047.jpg" width="50" height="50">| 20211p2ads0320 | Diego Pereira | [Diego Pereira](https://github.com/Diegop33p2)|caped.20211p2ads0320@aluno.ifpi.edu.br|
-|<img src="./img/1320457.png" width="50" height="50">| 5748559 | Nicolas | [Nicolas](https://github.com/fabricio) |nicolas@outlook.com|
+|<img src="./img/1320457.png" width="50" height="50">| 2022123tads0373 | Nícolas Teixeira Barros| [Nicolas Teixeira Barros](https://github.com/nicolas777711) |caped.202123tads0373@aluno.ifpi.edu.br|
 |<img src="./img/1320457.png" width="50" height="50">| 5748559 | Marcos | [Marcos](https://github.com/fabricio) |marcos@outlook.com|
 |<img src="./img/1320457.png" width="50" height="50">| 5748559 | Edberto | [Edberto](https://github.com/fabricio) |edberto@outlook.com|
 
