@@ -14,7 +14,9 @@
 
 |Código |Identificação |Classificação |Ator |Objetivo|
 |------ |--------------|--------------|-----|--------|
-|[RF01] |Efetuar Login |Importante    |Usuário| Este caso de uso serve para o usuário entrar no sistema|
+|[RF01] |Realizar cadastros de usuários  |Importante    |Usuário| O site deve permitir que os usuários se cadastrem com informações  pessoais e criem perfis|
+|[RF02] |Gestão de Conteúdos  |Importante    |Usuário| O site deve permitir que os professores adicionem, editem e removam  cursos, aulas e recursos educacionais|
+|[RF03] |Sistema de Busca  |Importante    |Usuário| O site deve possuir um mecanismo de busca eficiente para os usuários  encontrarem cursos e conteúdo relevante|
 
 # Requisitos Não Funcionais 
 - Liste todos os requisitios não-funcionais identificados.
