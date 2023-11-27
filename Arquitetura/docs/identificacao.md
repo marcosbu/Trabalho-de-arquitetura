@@ -24,6 +24,18 @@
 |[RF08] |Feedbacks e Avaliações  |Importante    |Usuário| O site deve permitir que os professores forneçam cursos e avaliações dos  cursos aos alunos e os alunos forneçam feedback para cursos e professores.|
 |[RF09] |Certificados  |Importante    |Usuário| O site deve gerar certificados de conclusão automaticamente para os  alunos que concluíram com êxito os cursos.|
 |[RF10] |Suporte Multilíngue  |Importante    |Usuário| O site deve Oferecer suporte para vários idiomas, permitindo que os alunos  escolham seu idioma preferido.|
+|[RF11] |Integração de Mídia  |Importante    |Usuário|O site deve suportar a incorporação de vídeos, áudio e outros tipos de  mídia nas aulas.|
+|[RF12] |Notificações  |Importante    |Usuário|O site deve enviar notificações por e-mail ou por meio de mensagens  internas para informar os alunos sobre novos cursos, atualizações ou  eventos.|
+|[RF13] |Sistema de Recomendação  |Importante    |UsuárioO site deve possuir um sistema de recomendação baseado no histórico de  navegação e preferências dos alunos.|
+|[RF14] |Fórum de Discussão por Curso  |Importante    |Usuário|O site deve possibilitar a criação de fóruns de discussão específicos para  cada curso, permitindo que os alunos interajam e tirem dúvidas  relacionadas ao conteúdo.|
+|[RF15] |Calendário de Eventos  |Importante    |Usuário|O site deve disponibilizar um calendário que mostre datas importantes,  como prazos de entrega de trabalhos, datas de exames e eventos  acadêmicos.|
+|[RF16] |Acompanhamento de Atividades  |Importante    |Usuário|O site deve permitir que os professores monitorem o progresso dos alunos  em tempo real durante as aulas ao vivo, e os aluno vejam o próprio progresso durante o curso.|
+|[RF17] | Integração com Redes Sociais  |Importante    |Usuário|O site deve permitir que os alunos compartilhem seu progresso,  certificados e conquistas nas redes sociais diretamente, a partir do site.|
+|[RF18] |Gerenciamento dos Professores  |Importante    |Usuário|O site deve possuir painel de controle para instrutores onde eles podem  gerenciar suas aulas, comunicar-se com alunos e avaliar o desempenho dos  alunos.|
+|[RF19] |Sistema de Notas  |Importante    |Usuário|O site deve possuir um sistema de notas que permita que os professores atribuam notas aos alunos e que os alunos vejam suas notas.|
+|[RF20] |Sala de Chat Ao Vivo  |Importante    |Usuário|O site deve oferecer salas de chat ao vivo para dúvidas rápidas dos alunos.|
+|[RF21] |Apoio a Diferentes Formatos de Arquivo  |Importante    |Usuário|O site deve aceitar e exibir diversos formatos de arquivo, como PDF, Word e  PowerPoint, para recursos de aprendizado.|
+|[RF22] |Sistema de Suporte  |Importante    |Usuário|O site deve possuir um sistema de suporte com chat ao vivo, e-mail ou  telefone para ajudar os alunos com problemas técnicos.|
 
 
 # Requisitos Não Funcionais 
