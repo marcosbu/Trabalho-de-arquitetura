@@ -14,69 +14,10 @@ Este repositório é destinado ao grupo x - [**gXchange**](Link do repositório 
 |:--:|:--:|:--:|:--:|:--:|
 |<img src="./img/IMG-20231023-WA0047.jpg" width="50" height="50">| 20211p2ads0320 | Diego Pereira | [Diego Pereira](https://github.com/Diegop33p2)|caped.20211p2ads0320@aluno.ifpi.edu.br|
 |<img src="./img/1320457.png" width="50" height="50">| 2022123tads0373 | Nícolas Teixeira Barros| [Nicolas Teixeira Barros](https://github.com/nicolas777711) |caped.202123tads0373@aluno.ifpi.edu.br|
-|<img src="./img/1320457.png" width="50" height="50">| 5748559 | Marcos | [Marcos](https://github.com/fabricio) |marcos@outlook.com|
+|<img src="./img/1000061650.jpeg" width="50" height="50">| 2022123tads0101 | Marcos Uchôa | [Marcos Uchôa](https://github.com/marcosbu) |caped.2022123tads0101@aluno.ifpi.edu.br|
 |<img src="./img/1320457.png" width="50" height="50">| 5748559 | Edberto | [Edberto](https://github.com/fabricio) |edberto@outlook.com|
 
 # Histórico de Revisões
 |Versão | Data | Descrição | Autor | 
 |-----|-----------|------|--------|
 | 1.0  | 01/10/2023 | Adicionado Tela de Login| Cleber Araujo |
-
-# Como usar algumas funções: 
-
-# Documentação de Software
-
-**Negrito**
-*Italico* 
-
-1. Primeiro
-2. Segundo
-3. Terceiro  
-
--[x]Tomar Banho  
--[ ]Comer Cuscuz  
--[ ]Limpar casa 
-
-|Nome |Idade|
-|-----|-----|
-|Eduardo|28| 
-|Odineia|26|
-|Abdenaide|22|
-
-~~Tachado~~
-
-```
-    # coding: utf-8
-
-    def soma(a, b):
-        if isinstance(a, basestring) or isinstance(b, basestring):
-            raise ValueError(u'Somente números são permitidos')
-        return a + b
-```
-
-Emoji - :snake: :heart::rocket:
-
-> "Essa é uma citação"
-
-* Item 1
-* Item 2
-
-`def soma(a, b):
-    if isinstance(a, basestring) or isinstance(b, basestring):
-        raise ValueError(u'Somente números são permitidos')
-    return a + b`
-
-[Portal P2](https://www.portalp2.com)
-
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
