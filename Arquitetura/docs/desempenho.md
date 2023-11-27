@@ -10,4 +10,4 @@
 
 ## Referências
 - **Pesquisas e Estudos Acadêmicos:** "Estratégias de Engajamento em Educação Online","Impacto das Tecnologias de Aprendizagem no Ensino a Distância","Avaliação da Usabilidade em Plataformas de Educação Online".
-- **Sites de Sucesso Similares:** Coursera (www.coursera.org),Udemy (www.udemy.com),Khan Academy (www.khanacademy.org),edX (www.edx.org). 
+- **Sites de Sucesso Similares:** Coursera (www.coursera.org), Udemy(www.udemy.com), Khan Academy(www.khanacademy.org), edX(www.edx.org). 
