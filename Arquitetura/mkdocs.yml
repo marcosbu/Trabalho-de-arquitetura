@@ -32,11 +32,3 @@ extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/highlight.min.js
 extra_css:
   - stylesheets/extra.css
-
-markdown_extensions:
-  - pymdownx.highlight
-  - pymdownx.superfences
-  - pymdownx.emoji
-  - pymdownx.tasklist
-  - pymdownx.tilde
-  - pymdownx.highlight
