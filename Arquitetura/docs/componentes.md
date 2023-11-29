@@ -8,7 +8,7 @@
 - Módulo de Segurança  
 - Módulo de Notificações  
   
-A comunição entre eles é é garantida atrvés de chamadas diretas, Os componentes se comunicam diretamente uns com os outros chamando funções ou métodos expostos pelas interfaces dos outros componentes.
+A comunição entre eles é garantida atrvés de chamadas diretas, Os componentes se comunicam diretamente uns com os outros chamando funções ou métodos expostos pelas interfaces dos outros componentes.
 
 # Protocolos e APIs
 
