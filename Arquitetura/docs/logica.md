@@ -5,35 +5,43 @@
 - Subsistema de Interação;  
 - Subsistema de Avaliação e Progresso.
 
-**No subsistema de *Autenticação e Gerenciamento de Usuários* temos alguns pacotes e classes significativas**  
+**No subsistema de *Autenticação e Gerenciamento de Usuários* temos alguns pacotes e classes significativas** 
+
 Pacotes:
 - Autenticacao: Lidar com autenticação de usuários;   
-- GerenciamentoUsuario: Gerenciamento de perfis e informações do usuário.   
+- GerenciamentoUsuario: Gerenciamento de perfis e informações do usuário.
+
 Classes Significativas:
 - GerenciadorAutenticacao: Responsável pela autenticação;  
 - GerenciadorUsuario: Gerencia informações do usuário.
 
 **No subsistema de *Conteúdo* temos alguns pacotes e classes significativas:**  
+
 Pacotes:
 - Cursos: Lida com cursos, aulas e conteúdo educacional;  
 - Recursos: Gerencia materiais de aprendizagem.  
+
 Classes Significativas:
 - Curso: Representa um curso com informações e aulas associadas;  
 - Aula: Descreve uma aula específica dentro de um curso;  
 - Recurso: Modelo para materiais de aprendizagem.  
 
 **No subsistema de *Interação* temos alguns pacotes e classes significativas:**  
+
 Pacotes:
 - Foruns: Gerencia discussões e fóruns;  
 - Menssagens: Suporte a mensagens entre usuários.  
+
 Classes Significativas:
 - PostagemForum: Representa uma postagem em um fórum;  
 - Menssagem: Modelo para mensagens entre usuários.  
 
 **No subsistema de *Avaliação e progresso* temos alguns pacotes e classes significativas:**  
+
 Pacotes:
 - GerenciamentoAvaliacao: Lidar com avaliações e testes;  
 - GerenciamentoProgresso: Monitoramento do progresso do aluno.  
+
 Classes Significativas:
 - Avaliacao: Modelo para avaliações e testes;  
 - Progresso: Acompanha o progresso do aluno.  
