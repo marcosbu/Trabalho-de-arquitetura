@@ -1,11 +1,11 @@
 # Visão Lógica
-## Dentro do nosso projeto indentifica-se 4 subsistemas indispensaveis, são eles:
+### Dentro do nosso projeto indentifica-se 4 subsistemas indispensaveis, são eles:
 - Subsistema de Autenticação e Gerenciamento de Usuários;  
 - Subsistema de Conteúdo;  
 - Subsistema de Interação;  
 - Subsistema de Avaliação e Progresso.
 
-**No subsistema de *Autenticação e Gerenciamento de Usuários* temos alguns pacotes e classes significativas** 
+**#No subsistema de *Autenticação e Gerenciamento de Usuários* temos alguns pacotes e classes significativas** 
 
 Pacotes:
 - Autenticacao: Lidar com autenticação de usuários;   
@@ -47,7 +47,7 @@ Classes Significativas:
 - Progresso: Acompanha o progresso do aluno.  
 
 
-## Relacionamentos, Operações e Atributos Significativos:  
+### Relacionamentos, Operações e Atributos Significativos:  
 
 Relacionamentos:
 - *Curso* pode conter várias *Aulas*;  
@@ -63,20 +63,3 @@ Atributos Importantes:
 - *Usuario* possui atributos como nome, e-mail e nível de acesso;  
 - *Curso* possui atributos como título, descrição e instrutor;  
 - *Aula* contém atributos como título, conteúdo e data de criação.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- [Esta seção descreve as partes significativas do ponto de vista da arquitetura do modelo de design, como sua divisão em subsistemas e pacotes. Além disso, para cada pacote significativo, ela mostra sua divisão em classes e  utilitários declasse. Apresente as classes significativas do ponto de vista da arquitetura e descreva suas responsabilidades, bem como alguns relacionamentos, operações e atributos de grande importância.]
