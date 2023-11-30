@@ -5,7 +5,7 @@
 - Subsistema de Interação;  
 - Subsistema de Avaliação e Progresso.
 
-**#No subsistema de *Autenticação e Gerenciamento de Usuários* temos alguns pacotes e classes significativas** 
+**No subsistema de *Autenticação e Gerenciamento de Usuários* temos alguns pacotes e classes significativas** 
 
 Pacotes:
 - Autenticacao: Lidar com autenticação de usuários;   
