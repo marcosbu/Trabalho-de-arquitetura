@@ -1,45 +1,46 @@
 # Visão Lógica
-**Dentro do nosso projeto indentifica-se 4 subsistemas indispensaveis, são eles:**  
+**Dentro do nosso projeto indentifica-se 4 subsistemas indispensaveis, são eles:**
 - Subsistema de Autenticação e Gerenciamento de Usuários;  
 - Subsistema de Conteúdo;  
 - Subsistema de Interação;  
 - Subsistema de Avaliação e Progresso.
 
 **No subsistema de *Autenticação e Gerenciamento de Usuários* temos alguns pacotes e classes significativas**  
-Pacotes:  
+Pacotes:
 - Autenticacao: Lidar com autenticação de usuários;   
 - GerenciamentoUsuario: Gerenciamento de perfis e informações do usuário.   
-Classes Significativas:  
+Classes Significativas:
 - GerenciadorAutenticacao: Responsável pela autenticação;  
 - GerenciadorUsuario: Gerencia informações do usuário.
 
 **No subsistema de *Conteúdo* temos alguns pacotes e classes significativas:**  
-Pacotes:  
+Pacotes:
 - Cursos: Lida com cursos, aulas e conteúdo educacional;  
 - Recursos: Gerencia materiais de aprendizagem.  
-Classes Significativas:  
+Classes Significativas:
 - Curso: Representa um curso com informações e aulas associadas;  
 - Aula: Descreve uma aula específica dentro de um curso;  
 - Recurso: Modelo para materiais de aprendizagem.  
 
 **No subsistema de *Interação* temos alguns pacotes e classes significativas:**  
-Pacotes:  
+Pacotes:
 - Foruns: Gerencia discussões e fóruns;  
 - Menssagens: Suporte a mensagens entre usuários.  
-Classes Significativas:  
+Classes Significativas:
 - PostagemForum: Representa uma postagem em um fórum;  
 - Menssagem: Modelo para mensagens entre usuários.  
 
 **No subsistema de *Avaliação e progresso* temos alguns pacotes e classes significativas:**  
-Pacotes:  
+Pacotes:
 - GerenciamentoAvaliacao: Lidar com avaliações e testes;  
 - GerenciamentoProgresso: Monitoramento do progresso do aluno.  
-Classes Significativas:  
+Classes Significativas:
 - Avaliacao: Modelo para avaliações e testes;  
 - Progresso: Acompanha o progresso do aluno.  
 
 
-**Relacionamentos, Operações e Atributos Significativos:**  
+**Relacionamentos, Operações e Atributos Significativos:**  4
+
 Relacionamentos:
 - *Curso* pode conter várias *Aulas*;  
 - *Usuario* pode estar associado a múltiplos *Cursos* e *Foruns*;  
