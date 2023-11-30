@@ -1,5 +1,5 @@
 # Visão Lógica
-**Dentro do nosso projeto indentifica-se 4 subsistemas indispensaveis, são eles:**
+## Dentro do nosso projeto indentifica-se 4 subsistemas indispensaveis, são eles:
 - Subsistema de Autenticação e Gerenciamento de Usuários;  
 - Subsistema de Conteúdo;  
 - Subsistema de Interação;  
@@ -47,7 +47,7 @@ Classes Significativas:
 - Progresso: Acompanha o progresso do aluno.  
 
 
-**Relacionamentos, Operações e Atributos Significativos:**  4
+## Relacionamentos, Operações e Atributos Significativos:  
 
 Relacionamentos:
 - *Curso* pode conter várias *Aulas*;  
