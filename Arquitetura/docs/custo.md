@@ -4,7 +4,7 @@
 - O presente projeto não tem expectativas de custos, pelo menos até o dia que será apresentado para o cliente. Foi feito um apanhado do que precisaria ser gasto no projeto, e não foi enncontrado nenhum gasto significativo. 
 
 ## Estimativa de Custo
-- Foi feito um apanhado do que precisaria ser gasto no projeto e não foi encontrado nenhum custo significativo
+- Foi feito um apanhado do que precisaria ser gasto no projeto e não foi encontrado nenhum custo significativo.
 
 ## Custo de Aquisição
 - Sem custos de aquisição.
