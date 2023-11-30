@@ -49,17 +49,17 @@ Classes Significativas:
 
 ### Relacionamentos, Operações e Atributos Significativos:  
 
-Relacionamentos:
+**Relacionamentos:**
 - *Curso* pode conter várias *Aulas*;  
 - *Usuario* pode estar associado a múltiplos *Cursos* e *Foruns*;  
 - *Avaliacao* está associado a um *Curso* específico.  
   
-Operações Significativas:
+**Operações Significativas:**
 - *GerenciamentoAutenticacao* realiza operações de autenticação, como login e logout;  
 - *Curso* pode ter operações para adicionar/remover Aulas;  
 - *Avaliacao* inclui operações para avaliar o desempenho do aluno.  
   
-Atributos Importantes:
+**Atributos Importantes:**
 - *Usuario* possui atributos como nome, e-mail e nível de acesso;  
 - *Curso* possui atributos como título, descrição e instrutor;  
 - *Aula* contém atributos como título, conteúdo e data de criação.
