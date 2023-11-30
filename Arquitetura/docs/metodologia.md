@@ -7,13 +7,9 @@ A metodologia de desenvolvimento que foi utilizada foi a RAD(Desenvolvimento Rá
 A RAD foi escolhida por ter uma prototipação rápida, pois ela envolve a criação rápida de protótipos para fornecer uma representação visual e funcional das características-chave do sistema. Por possuir reutilização de componentes que promove a reutilização de componentes existentes para acelerar o desenvolvimento. E por ela ter uma ênfase na entrega rápida, por isso a nossa equipe escolheu essa metolodia, visando a entrega rápida com eficiencia e eficacia.  
 
 
-<img src="./img/1701310659561.jpg" width="420" height="500">  
+<img src="./img/1701310659561.jpg" width="420" height="500"> <img src="./img/1701310659570.jpg" width="420" height="500">  
 
-<img src="./img/1701310659570.jpg" width="50" height="50">  
-
-<img src="./img/1701310659579.jpg" width="50" height="50">  
-
-<img src="./img/1701310659593.jpg" width="50" height="50">  
+<img src="./img/1701310659579.jpg" width="420" height="500"> <img src="./img/1701310659593.jpg" width="420" height="500">  
 
 
 ## Organização da Equipe
