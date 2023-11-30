@@ -22,6 +22,6 @@ Este repositório é destinado ao grupo x - [**gXchange**](Link do repositório 
 |-----|-----------|------|--------|
 | 1.0  | 30/09/2023 | Adicionado Tela de Login| Nícolas Teixeira |
 | 1.1  | 01/10/2023 | Adicionado Cadastro| Diego Pereira |
-| 1.2  | 01/10/2023 | Adicionado Cursos| Nícolas Teixeira |
-| 1.3  | 01/10/2023 | Adicionado Blog| Diego Pereira |
+| 1.2  | 02/10/2023 | Adicionado Cursos| Nícolas Teixeira |
+| 1.3  | 05/10/2023 | Adicionado Blog| Diego Pereira |
 
