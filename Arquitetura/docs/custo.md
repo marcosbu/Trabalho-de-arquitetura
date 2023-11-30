@@ -1,44 +1,40 @@
 # Plano de Gerenciamento de Custos
 
 ## Introdução
-- Descrição breve do objetivo do plano de gerenciamento de custos no contexto do projeto.
+- O presente projeto não tem expectativas de custos, pelo menos até o dia que será apresentado para o cliente. Foi feito um apanhado do que precisaria ser gasto no projeto, e não foi enncontrado nenhum gasto significativo. 
 
 ## Estimativa de Custo
-- Descrição da metodologia e critérios utilizados para estimar os custos do projeto.
+- Foi feito um apanhado do que precisaria ser gasto no projeto e não foi encontrado nenhum custo significativo.
 
 ## Custo de Aquisição
-- Detalhamento dos custos de aquisição, incluindo equipamentos, espaço de trabalho, transporte, alimentação e outros.
+- Sem custos de aquisição.
 
 ## Custo Pessoal
-- Detalhamento dos custos relacionados ao pessoal envolvido no projeto, incluindo a equipe de desenvolvimento.
+- Não houve custos relacionados ao pessoal envolvido no projeto.
 
 | Função                  | Quantidade | Salário     | Valor mensal total | Tempo de execução do projeto | Valor Total   |
 |-------------------------|------------|------------|---------------------|------------------------------|---------------|
-| Equipe de desenvolvimento | 7          | R$ 6.818     | R$ 43.267            | 4                            | R$ 173.068    |
-
+| Equipe de desenvolvimento | 0        | R$ 0,00    | R$ 0,00             | 0                            | R$ 0,00       |
 
 ## Ferramentas
-- Descrição das ferramentas, produtos ou equipamentos necessários para o projeto, com detalhes sobre quantidade e custos.
+- Não houve custos relacionados a ferramentas, produtos ou equipamentos necessários para o projeto.
 
 | Produto/Equipamento | Quantidade | Valor Unitário | Valor mensal | Tempo de execução do projeto | Valor Total |
 |---------------------|------------|----------------|--------------|-------------------------------|-------------|
-| Notebook            | 7          | R$ 4.999,90    | -            | -                             | R$ 34.999,3 |
-| Internet            | 7          | R$ 129,99      | R$ 909,93    | 4                           | R$ 3.639,72  |
-| Total               | -          | -              | -            | -                           | R$ 38.639,02 |
-
+| Notebook            | 0          | R$ 0,00        | -            | -                             | R$ 0,00     |
+| Internet            | 0          | R$ 0,00        | R$ 0,00      | 0                             | R$ 0,00     |
+| Total               | -          | -              | -            | -                             | R$ 0,00     |
 
 ## Custo Total do Projeto
-- Apresentação do custo total do projeto, incluindo custo pessoal, ferramentas, margem de riscos e margem de lucro.
+- Não houve custos no projeto.
 
 | Custo                       | Valor          |
 |-----------------------------|-----------------|
-| Custo Pessoal              | R$ 173.068      |
-| Ferramentas                | R$ 38.639,02    |
-| 20% de Riscos              | R$ 42.221,404   |
-| 60% de Lucro               | R$ 126.664,212  |
-| Valor total do projeto     | R$ 380.592,636  |
-
+| Custo Pessoal              | R$ 0,00          |
+| Ferramentas                | R$ 0,00          |
+| 20% de Riscos              | R$ 0,00          |
+| 60% de Lucro               | R$ 0,00          |
+| Valor total do projeto     | R$ 0,00          |
 
 ## Referências
-- Lista de fontes ou referências utilizadas para embasar as estimativas de custo.
-
+- Sem referêcias ou fontes embasadas para embasar as atividades de cutos.
