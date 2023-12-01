@@ -9,10 +9,7 @@
 
 | 1° - Reunião<br> Definições|Integrantes| Frequência | Data | Imagens | Feedback |
 | -----------------------    | ------  | -----------|-----------|-----------|-----------|
-|- Cargos<br>- Logo/Nome do Sistema   |  Marcos Uchôa<br>Diego Pereira<br>Nícolas Teixeira<br>Edberto Nascimento | Presente<br>Presente<br>Presente<br>Presente<br>  |   03/09/2023    |   <img src="./img/1000054350.JPG" width="50" height="50">
-<img src="./img/1000054454.JPG" width="50" height="50">
-<img src="./img/1000054913.JPG" width="50" height="50">
-<img src="./img/E.png" width="50" height="50">   |   => Cada integrante decide um nome e uma logo para o sistema;<br> => **Funções de cada integrante no 1° momento:**<br> --> Arquiteto de Software: (Marcos);<br> -->Desenvolvedor Sênio: (Diego e Nícolas);<br> --> Analista de Requisitos: (Edberto);<br> --> Gerente de Qualidade: (Edberto). |<br>
+|- Cargos<br>- Logo/Nome do Sistema   |  Marcos Uchôa<br>Diego Pereira<br>Nícolas Teixeira<br>Edberto Nascimento | Presente<br>Presente<br>Presente<br>Presente<br>  |   03/09/2023    |   <img src="./img/1000054350.JPG" width="50" height="50"> <img src="./img/1000054454.JPG" width="50" height="50"> <img src="./img/1000054913.JPG" width="50" height="50"> <img src="./img/E.png" width="50" height="50">   |   => Cada integrante decide um nome e uma logo para o sistema;<br> => **Funções de cada integrante no 1° momento:**<br> --> Arquiteto de Software: (Marcos);<br> -->Desenvolvedor Sênio: (Diego e Nícolas);<br> --> Analista de Requisitos: (Edberto);<br> --> Gerente de Qualidade: (Edberto). |<br>
 
 
 # Técnicas de Elicatação de Requisitos
