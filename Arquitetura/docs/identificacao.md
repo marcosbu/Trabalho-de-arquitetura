@@ -14,7 +14,7 @@
 
 | 3° - Reunião<br> Definições|Integrantes| Frequência | Data | Imagens | Feedback |
 | ----------| ------  | -----------|-----------|-----------|-----------|
-| - Levantamento <br>de Requisitos  |  Marcos Uchôa<br>Diego Pereira<br>Nícolas Teixeira<br>Edberto Nascimento |  Presente<br>Presente<br>Presente<br>Presente<br>   |   18/09/2023    |<img src="./img/1701310659570.jpg" width="220" height="300">   <br>    | No presente dia foi feita uma reunião com nosso requisitante, por meio de várias pergunta foi onde ficou explícito que ele<br> precisava de um sistema educacional baseado na Udemy, porém para a região de Pedro II<br>. No decorrer da conversa conseguimos abstrair os principais<br> requisitos funcionais e não funcionais para o desenvolvimento do sistema de nosso requisitante.     |<br> 
+| - Levantamento <br>de Requisitos  |  Marcos Uchôa<br>Diego Pereira<br>Nícolas Teixeira<br>Edberto Nascimento |  Presente<br>Presente<br>Presente<br>Presente<br>   |   18/09/2023    |<img src="./img/1701310659570.jpg" width="420" height="300">   <br>    | No presente dia foi feita uma reunião com nosso requisitante, por meio de várias pergunta foi onde ficou explícito que ele<br> precisava de um sistema educacional baseado na Udemy, porém para a região de Pedro II<br>. No decorrer da conversa conseguimos abstrair os principais<br> requisitos funcionais e não funcionais para o desenvolvimento do sistema de nosso requisitante.     |<br> 
 
 
 # Técnicas de Elicatação de Requisitos
