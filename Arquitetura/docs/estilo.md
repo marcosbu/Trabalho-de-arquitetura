@@ -9,7 +9,7 @@ Autores: ----- e -----
 
 ## Paleta de Cores
 
-A paleta de cores é composta por cinco cores base, incluindo marrom, duas tonalidades de azul e duas tonalidades de cinza que interagem bem com o marrom. A imagem a seguir mostra a paleta de cores e como as cores se complementam.
+A paleta de cores é composta por três cores base, incluindo preto, duas tonalidades de azul e branco que interagem bem com o marrom. A imagem a seguir mostra a paleta de cores e como as cores se complementam.
 
 ![Paleta de Cores](inserir link da imagem)
 
@@ -17,16 +17,16 @@ A paleta de cores é composta por cinco cores base, incluindo marrom, duas tonal
 
 As fontes utilizadas na aplicação serão:
 
-- Clarendon LT (Linotype) para títulos.
-- Sacramento (Open Font License) para títulos.
-- Enriqueta (Open Font License) para textos.
+- Work Sans para títulos.
+- Bold para botões maiores.
+- Inter para botões de opção.
+- Work Sans para textos.
 
 ## Botões
 
-Os botões utilizados no menu de navegação têm fundos transparentes e usam a cor marrom da paleta de cores em sua fonte, tornando-se mais claros quando o mouse é passado por cima.
+Os botões utilizados no menu de navegação têm fundos pretp e usam a cor branco da paleta de cores em sua fonte, tornando-se mais claros quando o mouse é passado por cima.
 
-![Botões de Menu](inserir link da imagem)
+Os demais botões utilizados possuem fundo azul e a fonte branca.
 
-Os demais botões utilizados possuem fundo marrom e a fonte branca.
-
-![Outros Botões](inserir link da imagem)
+![Botões de Menu](https://www.figma.com/file/Mrdf49SV2i4MCKv91eXx5q/Untitled?type=design&node-id=42%3A1770&mode=design&t=MxZ5YnHmNAGkLA1M-1)
+![Outros Botões](https://www.figma.com/file/Mrdf49SV2i4MCKv91eXx5q/Untitled?type=design&node-id=42%3A1770&mode=design&t=MxZ5YnHmNAGkLA1M-1)
