@@ -28,5 +28,5 @@ Os botões utilizados no menu de navegação têm fundos pretp e usam a cor bran
 
 Os demais botões utilizados possuem fundo azul e a fonte branca.
 
-![Botões de Menu](img/Botoes%20menu%20stt.png)
-![Outros Botões](img/Outros%20Botões.png)
+![Botões de Menu](<img src="./img/Botoes menu stt.png" width="50" height="50">)
+![Outros Botões](<img src="./img/Outros Botões.png" width="50" height="50">)
