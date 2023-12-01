@@ -8,4 +8,4 @@
 | -----------------------    | ------  | -----------|-----------|-----------|-----------|
 | Em nossa segunda reunião foi tratado o assunto de levantamentos de requisítos funcionais e não funcionais. | Marcos Uchôa  Diego Pereira  Nícolas Teixeira  Edberto Nascimento  |  Presente<br>Presente<br>Presente<br>Presente<br> |18/09/2023|A reunião ocorreu de forma presencial, no IFPI - Campus Pedro II, e foi utilizado o método de entrevista com o requisitante do projeto, foram feitos diversos questionamentos a respeito do projeto que estava sendo solicitado.  <img src="./img/1701310659593.jpg" width="250" height="200">|Ao decorrer da troca de perguntas e respostas, ficou bem claro o que o requisitante queria no seu projeto. Como consideração final, foram extraídos os requisitos funcionais e não funcionais do projeto que está sendo desenvolvido.|
 
-- Não ouve cronogramas significativos para a realização do projeto.
+- Não houve cronogramas significativos para a realização do projeto.
