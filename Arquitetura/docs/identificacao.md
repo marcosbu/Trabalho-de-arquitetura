@@ -9,7 +9,15 @@
 
 | 1° - Reunião<br> Definições|Integrantes| Frequência | Data | Imagens | Feedback |
 | -----------------------    | ------  | -----------|-----------|-----------|-----------|
-|- Cargos<br>- Logo/Nome do Sistema   |  Marcos Uchôa<br>Diego Pereira<br>Nícolas Teixeira<br>Edberto Nascimento | Presente<br>Presente<br>Presente<br>Presente<br>  |   03/09/2023    |   <img src="./img/1000054350.JPG" width="50" height="50"> <img src="./img/1000054454.JPG" width="50" height="50"> <img src="./img/1000054913.JPG" width="50" height="50"> <img src="./img/E.png" width="50" height="50">   |   => Cada integrante decide um nome e uma logo para o sistema;<br> => **Funções de cada integrante no 1° momento:**<br> --> Arquiteto de Software: (Marcos);<br> -->Desenvolvedor Sênio: (Diego e Nícolas);<br> --> Analista de Requisitos: (Edberto);<br> --> Gerente de Qualidade: (Edberto). |<br>
+|- Cargos<br>- Logo/Nome do Sistema   |  Marcos Uchôa<br>Diego Pereira<br>Nícolas Teixeira<br>Edberto Nascimento | Presente<br>Presente<br>Presente<br>Presente<br>  |   03/09/2023    |   <img src="./img/1000054350.JPG" width="150" height="150"> <img src="./img/1000054454.JPG" width="150" height="150"> <img src="./img/1000054913.JPG" width="150" height="150"> <img src="./img/E.png" width="150" height="150">   |   => Cada integrante decide um nome e uma logo para o sistema;<br> => **Funções de cada integrante no 1° momento:**<br> --> Arquiteto de Software: (Marcos);<br> -->Desenvolvedor Sênio: (Diego e Nícolas);<br> --> Analista de Requisitos: (Edberto);<br> --> Gerente de Qualidade: (Edberto). |<br>
+
+
+| 3° - Reunião<br> Definições|Integrantes| Frequência | Data | Imagens | Feedback |
+| ----------| ------  | -----------|-----------|-----------|-----------|
+| - Levantamento <br>de Requisitos  |  Marcos Uchôa<br>Diego Pereira<br>Nícolas Teixeira<br>Edberto Nascimento |  Presente<br>Presente<br>Presente<br>Presente<br>   |   18/09/2023    |<img src="./img/1701310659570.jpg" width="220" height="300">   <br>    | No presente dia foi feita uma reunião com nosso requisitante, por meio de várias pergunta foi onde ficou explícito que ele<br> precisava de um sistema educacional baseado na Udemy, porém para a região de Pedro II<br>. No decorrer da conversa conseguimos abstrair os principais<br> requisitos funcionais e não funcionais para o desenvolvimento do sistema de nosso requisitante.     |<br> 
+
+
+# Técnicas de Elicatação de Requisitos
 
 
 # Técnicas de Elicatação de Requisitos
