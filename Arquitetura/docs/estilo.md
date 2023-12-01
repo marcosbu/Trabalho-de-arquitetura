@@ -28,5 +28,5 @@ Os botões utilizados no menu de navegação têm fundos pretp e usam a cor bran
 
 Os demais botões utilizados possuem fundo azul e a fonte branca.
 
-![Botões de Menu](https://www.figma.com/file/Mrdf49SV2i4MCKv91eXx5q/Untitled?type=design&node-id=42%3A1770&mode=design&t=MxZ5YnHmNAGkLA1M-1)
-![Outros Botões](https://www.figma.com/file/Mrdf49SV2i4MCKv91eXx5q/Untitled?type=design&node-id=42%3A1770&mode=design&t=MxZ5YnHmNAGkLA1M-1)
+![Botões de Menu](img/Botoes%20menu%20stt.png)
+![Outros Botões](img/Outros%20Botões.png)
