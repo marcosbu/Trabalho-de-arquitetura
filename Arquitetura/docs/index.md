@@ -1,12 +1,14 @@
-<img src="./img/ifpi" width="125" height="125">
+<img src="./img/E.png" width="400" height="200">
 # Sobre
 
-Este repositório é destinado ao grupo x - [**gXchange**](Link do repositório do Github), contém toda a documentação do   projeto da disciplina **Engenharia de Software III - Arquitetura e Design de Software**, ministrada pela Professor **Cleber Araujo**, no **Instituto Federal do Piaui Campus Pedro II, durante o período de 2023/2**.
+Este repositório é destinado ao grupo x - [**DEVtrom**](https://github.com/marcosbu/Trabalho-de-arquitetura.git), contém toda a documentação do projeto da disciplina **Engenharia de Software III - Arquitetura e Design de Software**, ministrada pela Professor **Cleber Araujo**, no **Instituto Federal do Piaui Campus Pedro II, durante o período de 2023/2**.
 
 <br />
 
-# Nome da Empresa de Desenvolvimento 
-- Falar brevemente sobre a Empresa e a equipe de desenvolvimento. 
+# Educa P2
+- Buscando passar educação por meio da tecnologia.  
+- O Educa P2 é um site que de inicio foi pensdo de forma regional, mas que futuranmente pretende expandir suas áreas sem fronteiras.
+- Somos a DEVtrom, uma equipe iniciante no campo do desenvolvimento, mas que busca ser reconhecida por meio de muito esforço para satisfazer a sua demanda, nosso querido cliente.
 
 # Contribuidores
 
