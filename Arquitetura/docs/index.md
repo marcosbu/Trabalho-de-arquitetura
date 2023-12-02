@@ -22,63 +22,13 @@ Este repositório é destinado ao grupo x - [**DEVtrom**](https://github.com/mar
 # Histórico de Revisões
 |Versão | Data | Descrição | Autor | 
 |-----|-----------|------|--------|
-| 1.0  | 01/10/2023 | Adicionado Tela de Login| Cleber Araujo |
-
-# Como usar algumas funções: 
-
-# Documentação de Software
-
-**Negrito**
-*Italico* 
-
-1. Primeiro
-2. Segundo
-3. Terceiro  
-
--[x]Tomar Banho  
--[ ]Comer Cuscuz  
--[ ]Limpar casa 
-
-|Nome |Idade|
-|-----|-----|
-|Eduardo|28| 
-|Odineia|26|
-|Abdenaide|22|
-
-~~Tachado~~
-
-```
-    # coding: utf-8
-
-    def soma(a, b):
-        if isinstance(a, basestring) or isinstance(b, basestring):
-            raise ValueError(u'Somente números são permitidos')
-        return a + b
-```
-
-Emoji - :snake: :heart::rocket:
-
-> "Essa é uma citação"
-
-* Item 1
-* Item 2
-
-`def soma(a, b):
-    if isinstance(a, basestring) or isinstance(b, basestring):
-        raise ValueError(u'Somente números são permitidos')
-    return a + b`
-
-[Portal P2](https://www.portalp2.com)
-
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+| 1.0  | 30/09/2023 | Adicionado Tela de Login| Nícolas Teixeira |
+| 1.1  | 01/10/2023 | Adicionado Cadastro| Diego Pereira |
+| 1.2  | 02/10/2023 | Adicionado Cursos| Nícolas Teixeira |
+| 1.3  | 05/10/2023 | Adicionado Blog| Diego Pereira |
+| 1.4  | 06/10/2023 | Adicionado Comprar Cursos | Nícolas Teixeira |
+| 1.5  | 08/10/2023 | Adicionado Tela do Profesor | Diego Pereira |
+| 1.6  | 10/10/2023 | Adicionado Aulas | Nícolas Teixeira |
+| 1.7  | 13/10/2023 | Adicionado Certificado | Diego Pereira |
+| 1.8  | 14/10/2023 | Adicionado Avaliação | Nícolas Teixeira |
+| 1.9  | 15/10/2023 | Adicionado Conta Profesor | Diego Pereira |
