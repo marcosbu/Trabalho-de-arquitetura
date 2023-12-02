@@ -20,7 +20,16 @@ Este repositório é destinado ao grupo x - [**gXchange**](Link do repositório 
 # Histórico de Revisões
 |Versão | Data | Descrição | Autor | 
 |-----|-----------|------|--------|
-| 1.0  | 01/10/2023 | Adicionado Tela de Login| Cleber Araujo |
+| 1.0  | 30/09/2023 | Adicionado Tela de Login| Nícolas Teixeira |
+| 1.1  | 01/10/2023 | Adicionado Cadastro| Diego Pereira |
+| 1.2  | 02/10/2023 | Adicionado Cursos| Nícolas Teixeira |
+| 1.3  | 05/10/2023 | Adicionado Blog| Diego Pereira |
+| 1.4  | 06/10/2023 | Adicionado Comprar Cursos | Nícolas Teixeira |
+| 1.5  | 08/10/2023 | Adicionado Tela do Profesor | Diego Pereira |
+| 1.6  | 10/10/2023 | Adicionado Aulas | Nícolas Teixeira |
+| 1.7  | 13/10/2023 | Adicionado Certificado | Diego Pereira |
+| 1.8  | 14/10/2023 | Adicionado Avaliação | Nícolas Teixeira |
+| 1.9  | 15/10/2023 | Adicionado Conta Profesor | Diego Pereira |
 
 # Como usar algumas funções: 
 
