@@ -1,4 +1,4 @@
-# Gerenciamento de Riscos
+# Pagina está repetida, por isso não se´ra considerada.
 
 ## Introdução
 Este documento descreve o planejamento e a abordagem de gerenciamento de riscos no projeto. Risco é definido como "evento ou condição incerta que, se ocorrer, terá um efeito positivo ou negativo sobre pelo menos um objetivo do projeto" (PMBOK, 2004). Isso inclui riscos negativos (que afetam objetivos) e riscos positivos (oportunidades que beneficiam o projeto).   

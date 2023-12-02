@@ -5,4 +5,5 @@
 - O motivo da escolha dessa estratégia é exatamente por ele seguir padrões SQL, uma linuagem simples e que já estamos habituados e por oferecer rápido processamento de consultas e desempenho eficiente.
 
 # Gerenciamento de bancos de dados
-- Incluir também imagens e  o modelo do Diagrama de Dados. 
+- Diagrama de dados:
+<img src="./img/Diagrama em branco.png" width="580" height="660">
