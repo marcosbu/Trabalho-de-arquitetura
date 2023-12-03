@@ -27,6 +27,7 @@ Coordenada a execução de operações específicas do negócio.
 - Há a ordenadação das execuções de operações específicas do negócio.
 
 **Camada de Dados:** A camada de dados gerencia a comunicação com a fonte de dados, como bancos de dados ou sistemas de armazenamento, executa operações de leitura e gravação no banco de dados.  
+
 **Principais componentes:**
 - Gerenciador de usuários: Armazena informações sobre cadastros, autenticação, perfis, permissões, progresso em cursos;  
 - Gerenciador de cursos: Contém informações de cursos cadastrados, certificados emitidos, etc;  
