@@ -11,9 +11,9 @@ Repositório que deve ser utilizado como template inicial pelos grupos da Discip
 | Matrícula   | Aluno             |
 |-------------|-------------------|
 | 2022123TADS0101  | Antonio Marcos Bezerra Uchôa  |
-| XXXX XXXX   | Diego Pereira Gonçalves  |
-| XXXX XXXX   | Nicolas Teixeira  |
-| XXXX XXXX   | Ediberto Nascimento  |
+| 20211P2ADS0320   | Diego Pereira Gonçalves  |
+| 2022123TADS0373   | Nicolas Teixeira  |
+| 20211P2ADS0185   | Ediberto Nascimento  |
 
 
 ## Sobre
