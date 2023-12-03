@@ -2,9 +2,9 @@
 
 Repositório que deve ser utilizado como template inicial pelos grupos da Disciplina de Engenharia de Software III (Arquitetura de Software) do IFPI Campus Pedro II, ministrada pelo Prof. Cleber Araújo. 
 
-**Número do Grupo:** XX 
-**Disciplina:** Engenharia de software III  
-**Professor:** Cléber Araújo
+**Número do Grupo:** XX  
+**Disciplina:** Engenharia de software III   
+**Professor:** Cléber Araújo  
 
 
 ## Alunos
@@ -17,7 +17,7 @@ Repositório que deve ser utilizado como template inicial pelos grupos da Discip
 
 
 ## Sobre
-Descrição geral do seu projeto.
+Este projeto inclui um documento abrangente que tem uma visão geral da arquitetura de um sistema de cursos e aulas remotas. O sistema busca repassar conhecimento voltado para a área de tecnologia por meio de diversos cursos onlines, de uma forma simples e sem restrições. Trabalho realizado no decorrer da disciplina de Engenharia de Software III, sob a supervisão do professor Cléber Araújo.
 
 ## Screenshots
 ![Screenshot 1](URL_da_Imagem_1)
@@ -52,20 +52,3 @@ Adicione 1 ou mais vídeos demonstrando a execução do projeto final.
 
 ## O Projeto está rodando?
 ( ) SIM (x) NÃO
-
-## RepositorioTemplate
-
-Repositório que deve ser utilizado como template inicial pelos grupos da Disciplina de **Engenharia de Software III** (Arquitetura de Software) do IFPI Campus Pedro II, ministrada pelo **Prof. Cleber Araújo**.
-
-## Introdução
-
-Este repositório traz um template de documentação a ser seguido pelos grupos.
-
-## Tecnologia
-
-A geração do site estático é realizada utilizando o [MkDocs](https://www.mkdocs.org/).
-
-> "MkDocs is a fast, simple and downright gorgeous static site generator that's geared towards building project documentation."
-
-
-1
