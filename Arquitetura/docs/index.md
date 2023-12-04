@@ -8,7 +8,7 @@ Este repositório é destinado ao grupo x - [**DEVtrom**](https://github.com/mar
 
 # Educa P2
 - Buscando passar educação por meio da tecnologia.  
-- O Educa P2 é um site que de inicio foi pensdo de forma regional, mas que futuranmente pretende expandir suas áreas sem fronteiras.
+- O Educa P2 é um site que de inicio foi pensdo de forma regional, mas que futuramente pretende expandir suas áreas sem fronteiras.
 - Somos a DEVtrom, uma equipe iniciante no campo do desenvolvimento, mas que busca ser reconhecida por meio de muito esforço para satisfazer a sua demanda, nosso querido cliente.
 
 # Contribuidores
