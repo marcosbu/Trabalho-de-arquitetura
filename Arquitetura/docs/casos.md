@@ -1,7 +1,7 @@
 # Diagrama de Caso de Uso
 ![Caso de Uso - principal](./img/diagramacasodeuso.png)
 
-- **Seleção de Casos de Uso:** Liste os Diagramas de Casos de Uso que são considerados arquiteturalmente significativos para o sistema (No mínimo 5).
+- **Seleção de Casos de Uso:** Liste os Diagramas de Casos de Uso que são considerados arquiteturalmente significativos para o sistema (No mínimo 5).  
 ![Caso de Uso - Cadastrar-se](./img/Cadastrar-se.png)
 ![Caso de Uso - Fazer Login](./img/FazerLogin.png)
 ![Caso de Uso - Acessar Curso](./img/acessarCurso.png)
