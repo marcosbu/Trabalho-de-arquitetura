@@ -4,12 +4,12 @@ Este guia de estilo tem como função registrar as decisões de design relaciona
 
 ## Logo
 
-![Logo com fundo](inserir link da imagem)
-Autores: ----- e ----- 
+![Logo](<img src="./img/logo.jpg">)
+Autores: Marcos 
 
 ## Paleta de Cores
 
-A paleta de cores é composta por três cores base, incluindo preto, duas tonalidades de azul e branco que interagem bem com o marrom. A imagem a seguir mostra a paleta de cores e como as cores se complementam.
+A paleta de cores é composta por três cores base, incluindo preto, duas tonalidades de azul e branco que interagem bem com o preto. A imagem a seguir mostra a paleta de cores e como as cores se complementam.
 
 ![Paleta de Cores](inserir link da imagem)
 
@@ -24,7 +24,7 @@ As fontes utilizadas na aplicação serão:
 
 ## Botões
 
-Os botões utilizados no menu de navegação têm fundos pretp e usam a cor branco da paleta de cores em sua fonte, tornando-se mais claros quando o mouse é passado por cima.
+Os botões utilizados no menu de navegação têm fundos preto e usam a cor branco da paleta de cores em sua fonte, tornando-se mais claros quando o mouse é passado por cima.
 
 Os demais botões utilizados possuem fundo azul e a fonte branca.
 
