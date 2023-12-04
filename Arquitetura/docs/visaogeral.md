@@ -41,16 +41,16 @@ Coordenada a execução de operações específicas do negócio.
 
 A figura a seguir ilustra a estrutura de camadas da arquitetura e seus relacionamentos:
 
-[Insira aqui o seu diagrama de componentes que mostra as camadas e os principais componentes]
+![Diagrama de componentes](./img/diagramadecomponentes.PNG)
 
 ### Diagrama de Sequência
 
 Nesta seção, apresentaremos diagramas de sequência que ilustram as interações entre os componentes do sistema em cenários-chave. Esses diagramas destacarão o fluxo de controle e as trocas de mensagens entre os componentes.
 
-[Inclua aqui um ou mais diagramas de sequência relevantes]
+![Assistir Aula](./img/Diagramadesequencia.png)
 
 ### Diagrama de Classes
 
 Aqui, forneceremos um diagrama de classes que descreve a estrutura de classes do sistema, incluindo atributos e métodos. Esse diagrama ajudará a entender a estrutura dos componentes em cada camada e as relações entre eles.
 
-[Inclua aqui o seu diagrama de classes]
+![Diagrama de Classes](./img/diagramadeclasses.PNG)
