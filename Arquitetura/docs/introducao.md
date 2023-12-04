@@ -17,7 +17,7 @@
 - HTTP - Protocólo de Transferência de Hipertexto.
 
 #### Referências:  
-- **[Exemplo](referencias.md).**
+- **[Referências](referencias.md).**
 
 #### Visão Geral do Documento:
 - Resumo das seções ou capítulos.
