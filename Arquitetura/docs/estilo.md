@@ -1,10 +1,11 @@
 # Guia de Estilo
 
-Este guia de estilo tem como função registrar as decisões de design relacionadas à implementação do projeto ----------. Serve como uma ferramenta de comunicação entre a equipe de design e a equipe de desenvolvimento.
+Este guia de estilo tem como função registrar as decisões de design relacionadas à implementação do projeto Criação de um site de educação online. Serve como uma ferramenta de comunicação entre a equipe de design e a equipe de desenvolvimento.
 
 ## Logo
 
-![Logo](<img src="./img/logo.jpg">)
+<img src="./img/logo.jpg" width="400" height="200">
+
 Autores: Marcos 
 
 ## Paleta de Cores
@@ -28,5 +29,5 @@ Os botões utilizados no menu de navegação têm fundos preto e usam a cor bran
 
 Os demais botões utilizados possuem fundo azul e a fonte branca.
 
-![Botões de Menu](<img src="./img/Botoes menu stt.png" width="50" height="50">)
-![Outros Botões](<img src="./img/Outros Botões.png" width="50" height="50">)
+![Botões de Menu](<img src="./img/Botoes menu stt.png" width="400" height="200">)
+![Outros Botões](<img src="./img/Outros Botões.png" width="400" height="200"">)
