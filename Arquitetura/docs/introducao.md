@@ -10,50 +10,48 @@
 - Não está incluido no documento informações cruciáis para o seu funcionamento, como questões de alta segurança e afins. Dados de atualizações futuras não foram exposto no documento, uma vez que esse documento está sendo feito para fins estudantes e não temos a certeza de continuar com o projeto.  
 
 #### Definições, Acrônimos e Abreviações:
-- Lista de termos técnicos com suas definições.
-- Acrônimos e abreviações com suas expansões.
-#### Referências:
-- Documentos ou fontes consultadas durante a criação da arquitetura.
-- Padrões ou recursos relevantes.
+- Desenvolvedor back-and - desenvolverdor que busca desenvolver a parte lógica do sistema "processo atrás das cortinas";
+- Desenvolvedor front-and - desenvolverdor que busca desenvolver a visual do sistema, parte em que o usuário interage com o sistema.;
+- APIs - Interface de Programação de Aplicação;
+- TCP - Protocólo de controle de transmissão/protocólo da internet;
+- HTTP - Protocólo de Transferência de Hipertexto.
+
+#### Referências:  
+- **[Exemplo](referencias.md).**
+
 #### Visão Geral do Documento:
-- Estrutura geral do documento.
 - Resumo das seções ou capítulos.
 
-- **Indentificação do projeto :**
-- **Representação Arquitetural :**
-- **Guia de estilo :**
-- **Metas e restrições da arquitetura :**
-- **Padrões e préticas recomendadas :**
-- **Comunicação e integração :**
-- **Segurança :**
-- **Desenpenho e escabilidade :**
-- **Casos de uso :**
-- **Plano de risco :**
-- **Estimativa de custo :**
-- **Prototipação :**
-- **Metodologia :**
-- **Visão geral :**
-- **Visão logica :**
-- **Visão de processo :**
-- **Visão de implatação :**
-- **Visão de dados :**
-- **Qualidade :**
+- Introdução: Parte introdutória do documento.
+- Identificação do projeto: Descrição de algumas informações do projeto, como brainstormings, e listagem de requisitos funcionais e não funcionais.
+- Representação Arquitetural: Apresentação das visões arquiteturais.
+- Guia de Estilo: Detalhes do design do projeto, como Logo, tipografia, identidade visual, etc.
+- Padrões e Práticas Recomendadas: Padrões e práticas recomendadas para garantir a qualidade da arquitetura.
+- Comunicação e Integração:mecanismos de comunicação entre os componentes e APIs.
+- Segurança: Estratégias de segurança adotadas.
+- Desempenho e Escalabilidade: Detalhes que garantem o desempenho e a escalabilidade. 
+- Realizações de Casos de Uso: Representações de casos de uso do sistema.
+- Plano de Risco: Avaliação dos possivéis riscos para o sistema.
+- Estimativas de Custo: Avaliação de estimativas de custo para a criação do sistema. 
+- Prototipação: Prototipos das telas do sistema.
+- Metodologia: Descreve a metodologia utilizada para o desenvolvimento do sistema.
+- Visão Geral: Apresenta uma visão resumida do sistema.
+- Visão Lógica: Detalhes da lógica do sistema.
+- Visão de Implantação: Descreve a distribuição física do sistema.
+- Visão de Dados: Aborda a estrutura e gerenciamneto do banco de dados.
+- Qualidade: Descreve a qualidade do sistema.
+- Anexos: Anexos de reuniões e cronogramas.
+- Referências: Referências importantes para o desenvolvimento desse projeto.
 
 #### Público-Alvo:
 **Quem deve usar o documento:**  
-- Programadores.
-- Arquitetos de software.
-- Gerentes de Qualidade.
-- Solicitante do projeto.
-- Usuários do sistema.
+- Este documento é voltado para os programadores, arquiteto de software, gerentes de qualidade e os outros envolvidos nesse projeto.
 
 **Identificação do público específico**
-- Estudantes;
-- Pessoas buscando conhecimento;
+- O público que pode ser afetado por esse projeto são estudantes, pessoas buscando conhecimento.
 
 #### Uso do Documento:
 - O documento deve ser utilizado para expor o presente projeto de uma forma geral, abortando vários aspectos sobre o sistema.  
 - Os propósitos dependem do ponto de vista de cada expectador, para a equipe desenvolvedora o documento serve para guardar todas as informações especificações e para ajudar a densenvolver o projeto. Já para o requisitante o documento serve para tirar todas as dúvidas sobre o projeto solicitado e ter uma  base de como feito. Expectadores leigos sobre o projeto tem acesso a uma gama de informações relevantes sobre o sistema, facilitando assim o entendimento do mesmo.
 #### Resumo da Arquitetura:
-- Breve descrição da arquitetura geral.
-- Destaques dos principais componentes e decisões arquiteturais.
+- A arquitetura geral do projeto foi embasada no método de microserviços, onde o sistema é dividido em microserviços independentes que se comunicam entre si.
