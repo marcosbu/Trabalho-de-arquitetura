@@ -5,7 +5,7 @@
 |Educa P2| Cléber Araújo|  Marcos Uchôa      |
 
 # Brainstorming 
-- Abaixo temos imagens de todas as reuniões do grupo, incluindo explicação de como ocorreu, datas, colaboraçoes, o que foi excluido e acatado na reuinão. Foi abordado todos os esboços iniciais, ideias e as contribuições de cada membro do grupo, além da lista de frequência e votação.
+- Abaixo temos imagens de todas as reuniões do grupo, incluindo uma gama de informações sobre o projeto.
 
 | 1° - Reunião<br> Definições|Integrantes| Frequência | Data | Imagens | Feedback |
 | -----------------------    | ------  | -----------|-----------|-----------|-----------|
@@ -18,10 +18,7 @@
 
 
 # Técnicas de Elicatação de Requisitos
-
-
-# Técnicas de Elicatação de Requisitos
-- A técnica utilizada foi a de entrevista semiestruturada com o requisitante do projeto, conseguimos extrair o que o sistema do nosso requisitante realmente precisa na implementação.
+- A técnica utilizada foi a de entrevista semiestruturada com o requisitante do projeto, conseguimos extrair os principais pontos que o sistema do nosso requisitante precisa em sua implementação.
 # Requisitos Funcionais 
 - Liste todos os requisitios funcionais identificados. 
 
