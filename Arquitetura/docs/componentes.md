@@ -2,8 +2,7 @@
 **Temos alguns componentes em nosso sistema, tais como:**  
 - Módulo de Autenticação  
 - Módulo de Gerenciamento de Usuários  
-- Módulo de Banco de Dados  
-- Módulo de Banco de Dados  
+- Módulo de Banco de Dados    
 - Módulo de Processamento de Pagamentos  
 - Módulo de Segurança  
 - Módulo de Notificações  
