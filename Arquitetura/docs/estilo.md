@@ -27,7 +27,7 @@ As fontes utilizadas na aplicação serão:
 
 Os botões utilizados no menu de navegação têm fundos preto e usam a cor branco da paleta de cores em sua fonte, tornando-se mais claros quando o mouse é passado por cima.
 
-Os demais botões utilizados possuem fundo azul e a fonte branca.Alguns também possuem preto e fonte branca.
+Os demais botões utilizados possuem fundo azul e a fonte branca.Alguns também possuem fundo preto e fonte branca e também fundo branco e fonte preta.
 
 - Botões de menu:
 <img src="./img/Botoes menu stt.png" width="400" height="200">
